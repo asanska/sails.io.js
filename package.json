@@ -48,7 +48,5 @@
     "url": "https://github.com/balderdashy/sails.io.js/issues"
   },
   "homepage": "https://github.com/balderdashy/sails.io.js",
-  "dependencies": {
-    "socket.io-client": "2.0.3"
-  }
+  "dependencies": {}
 }
